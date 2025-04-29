@@ -12,7 +12,6 @@ Counts and displays each move with step numbers
 Displays total number of moves at the end
 
 📌 Example:
-Editează
 Enter the letter for the source rod: A
 Enter the letter for the destination rod: C
 Enter the letter for the auxiliary rod: B
